@@ -3,7 +3,7 @@
 body {
   font-family: "poppins", sans-serif;
   color: #101010;
-  background-color: #d12d2d;
+  background-color: #df4545;
 }
 
 .layout_padding {
@@ -781,7 +781,7 @@ a:focus {
   outline: none;
   border: none;
   color: #ffffff;
-  background: #f89cab;
+  background: #9b5f69;
   margin-top: 15px;
   text-transform: uppercase;
 }
